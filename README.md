@@ -1,5 +1,5 @@
 # Network-Scanner
-A very simple network scanner that will find you all IP's with their corresponding MAC Addresses.
+A very simple network scanner that will find you all IP's on a given network along with their corresponding MAC Addresses.
 
 Can be used against a specific target IP, or against a network range.
 
