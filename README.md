@@ -7,6 +7,6 @@ Can be used against a specific target IP, or against a network range.
 
 -t or --target to specify the IP or IP Range (Eg. 10.0.0.0/24).
 
-#To do
+# To do
 Add ability to scan for open ports.
 
